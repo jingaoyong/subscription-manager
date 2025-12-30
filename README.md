@@ -60,6 +60,12 @@
 
 ## 🚀 一键部署
 
+### 点击按钮，一键部署到 DartNode,
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+## 🚀 一键部署
+
 ### 点击按钮，一键部署到 CloudFlare Workers,
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wangwangit/SubsTracker)
